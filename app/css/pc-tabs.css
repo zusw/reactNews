@@ -1,0 +1,15 @@
+.pc-tabs{
+  margin-left: 20px;
+  width: 600px;
+}
+
+.pc-tabs li{
+  width:200px;
+  float: left;
+  padding: 10px 10px;
+}
+
+.pc-tabs ul li img{
+  width: 180px;
+  height: 200px;
+}

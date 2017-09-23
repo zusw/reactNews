@@ -1,0 +1,17 @@
+.pc-body{
+  margin-top: 20px;
+}
+
+.pc-body-top{
+  display: flex;
+}
+
+.pc-body-text{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.pc-body-center{
+  display: flex;
+}
